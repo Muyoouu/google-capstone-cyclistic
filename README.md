@@ -1,11 +1,11 @@
-# Google Data Analytics Capstone Project: Cyclistic the Bike-Sharing Company
+# Google Data Analytics Capstone Project: Cyclistic - The Bike-Sharing Company
 
-This is an analysis using Exploratory Data Analysis (EDA) approach, using Python and it's libraries. This analysis is a part of a capstone project for the Google Data Analytics Course. The subject of the analysis is Cyclistic, a fictitious bike-share company, yet backed with real-world dataset from a company in Chicago. The analysis was done on Jupyter Notebook, and here I intend to showcase the notebook in form of HTML page.  
+This analysis employs an Exploratory Data Analysis (EDA) approach, utilizing Python and its libraries. It is part of the Google Data Analytics Course's capstone project. The analysis focuses on Cyclistic, a fictional bike-share company, backed by a real-world dataset from a Chicago-based company. The analysis was conducted in Jupyter Notebook, and I am presenting the notebook as an HTML page here.
 
-Access the notebook through this Github Pages:
-[Cyclistic: EDA with Python](https://muyoouu.github.io/google-capstone-cyclistic/)
+To access the notebook, please visit this [Github Pages link](https://muyoouu.github.io/google-capstone-cyclistic/).
 
-## Business Problem and Data Preparations
+## Business Problem and Data Preparation
 
-The business problem and task are explained through different platform page. Also, prior to this analysis, the dataset was already gone through data cleaning and validations process.  
-For the details on the business problem and the data preparation process, please visit this notion page: [Introduction to Cyclistic: Bike-Sharing Company](https://muyoouu.notion.site/Google-s-Course-Capstone-Project-Part-1-Data-Cleaning-ce54c3c61bab4704941f8201044b3ccd?pvs=4)
+The business problem and the tasks involved are detailed on a different platform page. Prior to this analysis, the dataset underwent thorough cleaning and validation processes.
+
+For comprehensive insights into the business problem and the data preparation process, please refer to this [Notion page](https://muyoouu.notion.site/Google-s-Course-Capstone-Project-Part-1-Data-Cleaning-ce54c3c61bab4704941f8201044b3ccd?pvs=4).
